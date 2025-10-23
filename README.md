@@ -17,7 +17,7 @@ Voron 2.4 350 mm.
 
 Manta m8p v2 mainboard.
 
-Rapido HF hotend.
+Rapido 2 HF hotend.
 
 Clockwork 2 extruder.
 
