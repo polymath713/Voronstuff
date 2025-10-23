@@ -21,19 +21,15 @@ Rapido 2 HF hotend.
 
 Clockwork 2 extruder.
 
-Klicky probe with auto-z.                                being replaced because of reliability issues and low speed
-
 Purge bucket with brush.                                    being replaced
-
-Auto-z.                                                 keeping it until eddy probes can nozzle offset z
 
 BTT sb2209 2040  Canbus
 
-Eddy Duo probe 
+Eddy Duo probe  with auto-z beta function.
 
 Tradrack MMU     from trianglelabs 
 
-EREC filament tip cutter to be installed on the Tradrack
+EREC filament tip cutter
 
 Filamentalist buffering system (100mm)
 
