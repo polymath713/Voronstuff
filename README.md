@@ -27,23 +27,30 @@ Purge bucket with brush.                                    being replaced
 
 Auto-z.                                                 keeping it until eddy probes can nozzle offset z
 
+BTT sb2209 2040  Canbus
+
+Eddy Duo probe 
+
+Tradrack MMU     from trianglelabs 
+
+EREC filament tip cutter to be installed on the Tradrack
+
+Filamentalist buffering system (100mm)
+
+
 
 
 
 Planned features:
 
-BTT sb2209 2040  Canbus                                    *planned*
-
-
 Blobifier with mechanical kicker and chute                 *being designed*
+                                   
 
-Eddy Duo probe                                             *Planned*
 
-Tradrack MMU     from trianglelabs                         *planned*
 
-Filamentalist buffering system (100mm)                     *underway*
 
-EREC filament tip cutter to be installed on the Tradrack   *Planned*
+
+
 
 
 
